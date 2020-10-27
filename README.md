@@ -1,7 +1,8 @@
 # 简介
 这是一个用vue写的小说APP，支持搜索小说,加入书架,章节切换。
 
-## Project setup
+## 使用
+git clone https://github.com/AntonySufer/vue-readle.git
 ```
 npm install
 ```
