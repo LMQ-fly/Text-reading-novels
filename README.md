@@ -17,6 +17,7 @@ npm run serve
 npm run build
 ```
 ### 实现功能
+```
  小说搜索
  小说详情
  小说分类
